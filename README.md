@@ -6,6 +6,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>primeros pasos de GIThub</title>
+        <meta name="description" content="Una guía interactiva de primeros pasos para Brackets.">
         <link rel="stylesheet" href="main.css">
     </head>
     <body>
